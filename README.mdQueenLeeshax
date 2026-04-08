@@ -1,0 +1,10 @@
+QueenLeeshaxmain/
+ ├── index.js ✅ (main bot file)
+ ├── package.json ✅ (VERY important)
+ ├── config.js
+ ├── case.js
+ ├── pair.js (used for pairing 👀)
+ ├── settings.js
+ ├── module.js
+ ├── myfunc.js
+ ├── data/ (images, assets, etc.)
